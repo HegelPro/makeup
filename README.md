@@ -1,4 +1,4 @@
-# chat-nuxt
+# Makeup
 
 > My exquisite Nuxt.js project
 
