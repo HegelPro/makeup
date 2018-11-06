@@ -1,22 +1,23 @@
 # Makeup
+## Посмотреть приложение можно по ссылке:
+* [Makeup](http://93.171.10.54:3000)
 
-> My exquisite Nuxt.js project
+## Что представляет собой приложение?
+Написано на фреймворке Vue.
+Сайт представляет собой резиновую верстку макета. Использует серверный рендеринг Nuxt. Присутствует некоторое количество анимаций.
 
-## Build Setup
-
-``` bash
-# install dependencies
-$ yarn install
-
-# serve with hot reload at localhost:3000
-$ yarn run dev
-
-# build for production and launch server
-$ yarn run build
-$ yarn start
-
-# generate static project
-$ yarn run generate
+## Как запустить приложение?
+```
+npm run build
+npm run start
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+## Инструменты используемые в написании приложения:
+
+### Клиентская часть
+* Nuxt.js
+* Vue
+* SASS
+
+## Автор
+* **Lev Palkin** - [HegelPro](https://github.com/HegelPro)
